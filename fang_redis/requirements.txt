@@ -20,7 +20,7 @@ cssselect==1.0.3
 decorator==4.3.2
 Django==1.11.9
 django-redis==4.10.0
-djangorestframework==3.9.0
+djangorestframework==3.11.2
 dnspython==1.16.0
 dukpy==0.2.2
 eventlet==0.24.1
