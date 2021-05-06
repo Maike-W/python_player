@@ -25,7 +25,7 @@ dnspython==1.16.0
 dukpy==0.2.2
 eventlet==0.24.1
 Flask==1.0.2
-Flask-Cors==3.0.6
+Flask-Cors==3.0.9
 future==0.17.1
 greenlet==0.4.15
 hyperlink==18.0.0
